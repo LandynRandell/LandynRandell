@@ -16,6 +16,7 @@ I'm working toward applying for the DoD SMART Scholarship and working on project
 - CAD (Fusion 360)
 
 #Background 
+
 -University of South Alabama research project regarding drones, rovers, and aiding first responders
 - Peer Advisor, Jo Bonner Leadership Academy
 - Math Tutor/Teaching Assistant at the University of South Alabama
