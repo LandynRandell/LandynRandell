@@ -4,8 +4,10 @@ I'm a student of the Alabama School of Mathematics and Science and an aspiring G
 
 I'm working toward applying for the DoD SMART Scholarship and working on projects that involve mechanical engineering, Python, and real-world systems and problem-solving.
 
-## What I'm working on
-- NASA Engine Failure Predictor
+## What I've worked on or am working on
+- NASA Engine Failure Predictor (Paused)
+- Drone/Rover Research Project for first responders (Completed and presented)
+- Independent drone research project for search and rescue (Active)
 
 ## Developing Skills
 - Python (pandas, NumPy, matplotlib)
